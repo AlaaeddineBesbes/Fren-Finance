@@ -25,7 +25,7 @@ const rewardToken = "0x959b88966fC5B261dF8359961357d34F4ee27b4a";
 const buyBackAddress="0xFd45537E9354716d4d6a431dfBfc49B4772c26e7";
 const marketingAddress="0xd97E8C6D346D1262F011E85918ef80A1DDE28928";
 
-const tokenContract = new Web3Client.eth.Contract(minABI, tokenAddress);
+const tokenContract = new Web3BNBClient.eth.Contract(minABI, tokenAddress);
 
 
 function updateWallets(){
@@ -68,7 +68,7 @@ useEffect(() => {
               });
 
             let walletB = await tokenContract.methods.balanceOf(user.attributes.ethAddress).call();
-            let walletBalance = Web3Client.utils.fromWei(walletB);
+            let walletBalance = Web3BNBClient.utils.fromWei(walletB);
             setBalance(walletBalance*10**9);    
            
             
