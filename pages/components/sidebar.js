@@ -60,7 +60,7 @@ const Sidebar = () => {
                     <div className="">
                         <div className="flex p-3 text-gray-700  space-x-4 0 hover:bg-gray-50 hover:text-blue-600  cursor-pointer  ">
                             <SocialIcon network="telegram" style={{ height: 35, width: 35 }} />
-                            <a className=" font-semibold "  href=''>Telegram</a>
+                            <a className=" font-semibold "  href='https://t.me/FrenFinance'>Telegram</a>
                         </div>
                     </div>
 
