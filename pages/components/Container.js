@@ -63,9 +63,9 @@ useEffect(() => {
 
             let walletB = await tokenContract.methods.balanceOf(user.attributes.ethAddress).call();
             let walletBalance = Web3Client.utils.fromWei(walletB);
-            setBalance(walletBalance*10**9);
+            setBalance(walletBalance*10**9);    
            
-            var waletBnbBalance = Web3BNBClient.eth.getBalance(walletAddress, function   (error, wei) {
+            var waletBnbBalance = Web3BNBClient.eth.getBalance(user.attributes.ethAddress, function   (error, wei) {
                 if (!error) {
                     setWalletBnb(Web3BNBClient.utils.fromWei(wei, 'ether'))
                     
@@ -112,7 +112,6 @@ useEffect(() => {
             </div>
             <div className="flex  ml-3 mt-6 space-x-2  mr-4 ">
                 <Middle />
-                <RightBar />
             </div>
         </div>
     )
