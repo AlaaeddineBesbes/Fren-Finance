@@ -105,8 +105,9 @@ useEffect(() => {
             <div className="flex   p-4 space-x-3">
                 <Card title="BALANCE" balance={walletBalance+" ARTCAT"} icon={0} />
                 <Card title="MARKETING WALLET" balance={marketingBalance+" BNB"} link='' icon={1} />
-                <Card title="TOTAL SUPPLY" balance={"1,000,000,000,000,000"} link='' icon={2} />
                 <Card title="WALLET BNB" balance={walletBnb+" BNB"}  icon={3} />
+                <Card title="TOTAL SUPPLY" balance={"1,000,000,000,000,000"} link='' icon={2} />
+                
 
             </div>
             <div className="flex  ml-3 mt-6 space-x-2  mr-4 ">
