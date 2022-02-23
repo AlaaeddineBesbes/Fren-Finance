@@ -31,7 +31,7 @@ const data = {
 const Middle = () => {
     return (
         <div className=" bg-white  ml-2   shadow-sm w-full h-screen   ">
-            <iframe className='w-full h-full' height="1000px"   src='https://dexscreener.com/bsc/0xb9b98dede45a81c1db605f4bc7d84954f32bde24'></iframe>
+            <iframe className='w-full h-full' height="1000px"   src='https://dexscreener.com/bsc/0x31db536dd43442ec426731571e1001a67e4ea23a'></iframe>
         
         </div>
     )
