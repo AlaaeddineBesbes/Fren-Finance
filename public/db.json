@@ -1,25 +1,6 @@
 {
   "publication": [
-    {
-      "co-authors": [
-        "Ilham Alloui",
-        "Eric Benoit",
-        "St\u00e9phane Perrin",
-        "Flavien Vernier"
-      ],
-      "publication": "WIoT: Interconnection between Wise Objects and IoT",
-      "id": 2353788
-    },
-    {
-      "co-authors": [
-        "Ilham Alloui",
-        "Eric Benoit",
-        "St\u00e9phane Perrin",
-        "Flavien Vernier"
-      ],
-      "publication": "Wise Objects for IoT (WIoT): Software Framework and Experimentation",
-      "id": 3922488
-    },
+    
     {
       "co-authors": ["Ilham Alloui", "Flavien Vernier"],
       "publication": "A Wise Object Framework for Distributed Intelligent Adaptive Systems",
