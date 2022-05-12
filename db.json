@@ -6169,8 +6169,460 @@
       ],
       "publication": "State-of-the-Art Techniques in RF Energy Harvesting Circuits",
       "id": 3646419
+    },
+    {
+      "co-authors": [
+        "Achilles D. Boursianis",
+        "Maria Papadopoulou",
+        "Spyridon Nikolaidis",
+        "Panagiotis Sarigiannidis",
+        "Konstantinos E. Psannis",
+        "Apostolos Georgiadis",
+        "Manos M. Tentzeris",
+        "Sotirios K. Goudos"
+      ],
+      "publication": "Novel design framework for dual-band frequency selective surfaces using multi-variant differential evolution",
+      "id": 7612042
+    },
+    {
+      "co-authors": [
+        "Achilles D. Boursianis",
+        "Maria Papadopoulou",
+        "Marco Salucci",
+        "Alessandro Polo",
+        "Panagiotis Sarigiannidis",
+        "Konstantinos E. Psannis",
+        "Seyedali Mirjalili",
+        "Stavros Koulouridis",
+        "Sotirios K. Goudos"
+      ],
+      "publication": "Emerging Swarm Intelligence Algorithms and Their Applications in Antenna Design: The GWO, WOA, and SSA Optimizers",
+      "id": 6126838
+    },
+    {
+      "co-authors": [
+        "Achilles D. Boursianis",
+        "Maria Papadopoulou",
+        "Antonis G. Gotsis",
+        "Shaohua Wan",
+        "Panagiotis Sarigiannidis",
+        "Spyridon Nikolaidis",
+        "Sotirios K. Goudos"
+      ],
+      "publication": "Smart Irrigation System for Precision Agriculture\u2014The AREThOU5A IoT Platform",
+      "id": 835732
+    },
+    {
+      "co-authors": [
+        "Maria Papadopoulou",
+        "Achilles D. Boursianis",
+        "Christos Volos",
+        "Ioannis N. Stouboulos",
+        "Spyridon Nikolaidis",
+        "Sotirios K. Goudos"
+      ],
+      "publication": "High-Efficiency Triple-Band RF-to-DC Rectifier Primary Design for RF Energy-Harvesting Systems",
+      "id": 4105326
+    },
+    {
+      "co-authors": [
+        "Achilles D. Boursianis",
+        "Maria Papadopoulou",
+        "Stavros Koulouridis",
+        "Paolo Rocca",
+        "Apostolos Georgiadis",
+        "Manos M. Tentzeris",
+        "Sotirios K. Goudos"
+      ],
+      "publication": "Triple-Band Single-Layer Rectenna for Outdoor RF Energy Harvesting Applications",
+      "id": 5403550
+    },
+    {
+      "co-authors": [
+        "Achilles D. Boursianis",
+        "Maria Papadopoulou",
+        "Juliano Pierezan",
+        "Viviana Cocco Mariani",
+        "Leandro dos Santos Coelho",
+        "Panagiotis Sarigiannidis",
+        "Stavros Koulouridis",
+        "Sotirios K. Goudos"
+      ],
+      "publication": "Multiband Patch Antenna Design Using Nature-Inspired Optimization Method",
+      "id": 702270
+    },
+    {
+      "co-authors": [
+        "Basil A. S. Davis",
+        "Manuel Chevalier",
+        "Philipp Sommer",
+        "Vachel A. Carter",
+        "Walter Finsinger",
+        "Achille Mauri",
+        "Leanne N. Phelps",
+        "Marco Zanon",
+        "Roman Abegglen",
+        "Christine M. \u00c5kesson",
+        "Francisca Alba-S\u00e1nchez",
+        "R. Scott Anderson",
+        "Tatiana G. Antipina",
+        "Juliana Atanassova",
+        "Ruth Beer",
+        "Nina I. Belyanina",
+        "Tatiana Blyakharchuk",
+        "Olga K. Borisova",
+        "Elissaveta Bozilova",
+        "Galina Bukreeva",
+        "M. Jane Bunting",
+        "Eleonora Clo",
+        "Daniele Colombaroli",
+        "Nathalie Combourieu-Nebout",
+        "St\u00e9phanie Desprat",
+        "Federico Di Rita",
+        "Morteza Djamali",
+        "Kevin J. Edwards",
+        "Patricia L. Fall",
+        "Angelica Feurdean",
+        "William J. Fletcher",
+        "Assunta Florenzano",
+        "G Furlanetto",
+        "Emna Gaceur",
+        "Arsenii T. Galimov",
+        "Mariusz Ga\u0142ka",
+        "Iria Garc\u00eda-Moreiras",
+        "Thomas Giesecke",
+        "Roxana Grindean",
+        "Maria Angela Guido",
+        "Irina G. Gvozdeva",
+        "Ulrike Herzschuh",
+        "Kari Loe Hjelle",
+        "Sergey Ivanov",
+        "Susanne Jahns",
+        "Vlasta Jankovsk\u00e1",
+        "Gonzalo Jim\u00e9nez-Moreno",
+        "Monika Karpi\u0144ska-Ko\u0142aczek",
+        "Ikuko Kitaba",
+        "Piotr Ko\u0142aczek",
+        "Elena G. Lapteva",
+        "Ma\u0142gorzata Lata\u0142owa",
+        "Vincent Lebreton",
+        "Suzanne A.G. Leroy",
+        "Michelle Leydet",
+        "Darya A. Lopatina",
+        "Jos\u00e9 Antonio L\u00f3pez-S\u00e1ez",
+        "Andr\u00e9 F. Lotter",
+        "Donatella Magri",
+        "Elena Marinova",
+        "Isabelle Matthias",
+        "Anastasia Mavridou",
+        "Anna Maria Mercuri",
+        "Jose Manuel Mesa-Fern\u00e1ndez",
+        "Yuri A. Mikishin",
+        "Krystyna Milecka",
+        "Carlo Alessandro Montanari",
+        "C\u00e9sar Morales-Molino",
+        "Almut Mrotzek",
+        "Castor Mu\u00f1oz Sobrino",
+        "Olga D. Naidina",
+        "Takeshi Nakagawa",
+        "Anne Birgitte Nielsen",
+        "Elena Novenko",
+        "Sampson Panajiotidis",
+        "Nata K. Panova",
+        "Maria Papadopoulou",
+        "Heather S. Pardoe",
+        "Anna P\u0119dziszewska",
+        "Tatiana I. Petrenko",
+        "Mar\u00eda J. Ramos-Rom\u00e1n",
+        "Cesare Ravazzi",
+        "Manfred R\u00f6sch",
+        "Natalia Ryabogina",
+        "Silvia Sabariego Ruiz",
+        "J. Sakari Salonen",
+        "Tatyana V. Sapelko",
+        "James Edward Schofield",
+        "Heikki Sepp\u00e4",
+        "Lyudmila S. Shumilovskikh",
+        "Normunds Stivrins",
+        "Philipp Stojakowits",
+        "Helena Svobodova Svitavska",
+        "Joanna \u015awi\u0119ta-Musznicka",
+        "Ioan Tantau",
+        "Willy Tinner",
+        "Kazimierz Tobolski",
+        "Spassimir Tonkov",
+        "Margarita Tsakiridou",
+        "Verushka Valsecchi"
+      ],
+      "publication": "The Eurasian Modern Pollen Database (EMPD), version 2",
+      "id": 1905705
+    },
+    {
+      "co-authors": [
+        "Maria Papadopoulou",
+        "Achilles D. Boursianis",
+        "Sotirios K. Goudos",
+        "Konstantinos E. Psannis"
+      ],
+      "publication": "Dual-Band Rectifier Design for Ambient RF Energy Harvesting",
+      "id": 6395091
+    },
+    {
+      "co-authors": [
+        "Ioannis D. Bougas",
+        "Maria Papadopoulou",
+        "Konstantinos E. Psannis",
+        "Panagiotis Sarigiannidis",
+        "Sotirios K. Goudos"
+      ],
+      "publication": "State-of-the-Art Technologies in RF Energy Harvesting Circuits \u2013 A Review",
+      "id": 1699352
+    },
+    {
+      "co-authors": [
+        "Achilles D. Boursianis",
+        "Maria Papadopoulou",
+        "Spyridon Nikolaidis",
+        "Sotirios K. Goudos"
+      ],
+      "publication": "Modified Printed Bow-Tie Antenna for RF Energy Harvesting Applications",
+      "id": 5371573
+    },
+    {
+      "co-authors": [
+        "Maria Papadopoulou",
+        "Achilles D. Boursianis",
+        "Anastasia Skoufa",
+        "Christos Volos",
+        "Ioannis N. Stouboulos",
+        "Spyridon Nikolaidis",
+        "Sotirios K. Goudos"
+      ],
+      "publication": "Dual-Band RF-to-DC Rectifier with High Efficiency for RF Energy Harvesting Applications",
+      "id": 719583
+    },
+    {
+      "co-authors": [
+        "Achilles D. Boursianis",
+        "Maria Papadopoulou",
+        "Spyridon Nikolaidis",
+        "Sotirios K. Goudos"
+      ],
+      "publication": "Dual-Band Single-Layered Modified E-shaped Patch Antenna for RF Energy Harvesting Systems",
+      "id": 118974
+    },
+    {
+      "co-authors": [
+        "Panagiotis Tziachris",
+        "Vassilis Aschonitis",
+        "Theocharis Chatzistathis",
+        "Maria Papadopoulou",
+        "Ioannis Doukas"
+      ],
+      "publication": "Comparing Machine Learning Models and Hybrid Geostatistical Methods Using Environmental and Soil Covariates for Soil pH Prediction",
+      "id": 7620649
+    },
+    {
+      "co-authors": [
+        "Achilles D. Boursianis",
+        "Maria Papadopoulou",
+        "Panagiotis D. Diamantoulakis",
+        "Aglaia Liopa-Tsakalidi",
+        "Pantelis Barouchas",
+        "G. Salahas",
+        "George K. Karagiannidis",
+        "Shaohua Wan",
+        "Sotirios K. Goudos"
+      ],
+      "publication": "Internet of Things (IoT) and Agricultural Unmanned Aerial Vehicles (UAVs) in smart farming: A comprehensive review",
+      "id": 7199243
+    },
+    {
+      "co-authors": [
+        "Achilles D. Boursianis",
+        "Maria Papadopoulou",
+        "P. Damantoulakis",
+        "Apostolia Karampatea",
+        "Pavlos Doanis",
+        "D. Geourgoulas",
+        "A. Skoufa",
+        "D. Valavanis",
+        "C. Apostolidis",
+        "Dimitrios G. Babas",
+        "Konstantinos B. Baltzis",
+        "Theodoros N. Kaifas",
+        "Konstantinos Siozios",
+        "Stylianos Siskos",
+        "Th. Samaras",
+        "Katherine Siakavara",
+        "Spiridon Nikolaidis",
+        "Sotirios K. Goudos",
+        "Aglaia Liopa-Tsakalidi",
+        "Pantelis Barouchas",
+        "I. Kasimis",
+        "Georgios Kalamaras",
+        "D. Merkouris",
+        "G. Perrakis",
+        "C. Tsirogiannis",
+        "Antonis G. Gotsis",
+        "Konstantinos Maliatsos"
+      ],
+      "publication": "Advancing Rational Exploitation of Water Irrigation Using 5G-IoT Capabilities: The AREThOU5A Project",
+      "id": 2656133
+    },
+    {
+      "co-authors": [
+        "Stella D. Bouziana",
+        "Konstantinos Tziomalos",
+        "Antonis Goulas",
+        "Timoleon-Achilleas Vyzantiadis",
+        "Maria Papadopoulou",
+        "Athanasia Panderi",
+        "Apostolos \u0399. \u0397atzitolios"
+      ],
+      "publication": "Effects of major adipokines and the \u2212420 C > G resistin gene polymorphism on the long-term outcome of patients with acute ischemic stroke",
+      "id": 82274
+    },
+    {
+      "co-authors": [
+        "Panagiotis Tziachris",
+        "Vassilis Aschonitis",
+        "Theocharis Chatzistathis",
+        "Maria Papadopoulou"
+      ],
+      "publication": "Assessment of spatial hybrid methods for predicting soil organic matter using DEM derivatives and soil parameters.",
+      "id": 8936
+    },
+    {
+      "co-authors": [
+        "Panagiotis Tziachris",
+        "Eirini Metaxa",
+        "F. Papadopoulos",
+        "Maria Papadopoulou"
+      ],
+      "publication": "Spatial Modelling and Prediction Assessment of Soil Iron Using Kriging Interpolation with pH as Auxiliary Information",
+      "id": 5476912
+    },
+    {
+      "co-authors": [
+        "Stella D. Bouziana",
+        "Konstantinos Tziomalos",
+        "Antonios Goulas",
+        "Timoleon Vyzantiadis",
+        "Maria Papadopoulou",
+        "Athanasia Panderi",
+        "Apostolos I. Hatzitolios"
+      ],
+      "publication": "Effects of major adipokines on the long-term outcome of patients with acute ischemic stroke",
+      "id": 5914373
+    },
+    {
+      "co-authors": [
+        "Dimitrios Sarafidis",
+        "Georgios Koukoulis",
+        "Lazaros Dinakis",
+        "Ioannis Paraschakis",
+        "Apostolos Arvanitis",
+        "Peristera Lafazani",
+        "Maria Papadopoulou",
+        "Aristotelis Vartholomaios"
+      ],
+      "publication": "An on-line interactive Municipal Information System for the reporting and management of issues related to the operation of a Municipality and the service of its residents",
+      "id": 6852944
+    },
+    {
+      "co-authors": [
+        "Konstantinos Tziomalos",
+        "Panagiotis Dimitriou",
+        "S. Bouziana",
+        "Marianna Spanou",
+        "Stavroula Kostaki",
+        "Stella-Maria Angelopoulou",
+        "Maria Papadopoulou",
+        "Vasilios Giampatzis",
+        "Christos Savopoulos",
+        "Apostolos I. Hatzitolios"
+      ],
+      "publication": "Transient hyperglycemia at admission and acute ischemic stroke severity and short-term outcome",
+      "id": 2890486
+    },
+    {
+      "co-authors": [
+        "Konstantinos Tziomalos",
+        "Stella D. Bouziana",
+        "Marianna Spanou",
+        "Stavroula Kostaki",
+        "Stella-Maria Angelopoulou",
+        "Maria Papadopoulou",
+        "Vasilios Giampatzis",
+        "Maria Tsopozidi",
+        "Christos Savopoulos",
+        "Apostolos I. Hatzitolios"
+      ],
+      "publication": "Pulse pressure and in-hospital outcome of acute ischemic stroke",
+      "id": 5368504
+    },
+    {
+      "co-authors": [
+        "Sofia Lalou",
+        "Efimia Hatzidimitriou",
+        "Maria Papadopoulou",
+        "Vassiliki G. Kontogianni",
+        "Constantinos G. Tsiafoulis",
+        "Ioannis P. Gerothanassis",
+        "Maria Z. Tsimidou"
+      ],
+      "publication": "Beyond traditional balsamic vinegar: Compositional and sensorial characteristics of industrial balsamic vinegars and regulatory requirements",
+      "id": 3848953
+    },
+    {
+      "co-authors": [
+        "Konstantinos Tziomalos",
+        "Vasilios Giampatzis",
+        "Stella D. Bouziana",
+        "Marianna Spanou",
+        "Maria Papadopoulou",
+        "Stavroula Kostaki",
+        "Vasiliki Dourliou",
+        "Marianthi Papagianni",
+        "Christos Savopoulos",
+        "Apostolos I. Hatzitolios"
+      ],
+      "publication": "Response to \"Brachial Systolic Blood Pressure Fails to Predict Short-Term Outcome in Patients With Acute Ischemic Stroke: What About Central Systolic Pressure?\".",
+      "id": 1743863
+    },
+    {
+      "co-authors": [
+        "Nadia Lepastourel",
+        "Laurence Joselin",
+        "Eric Daud\u00e9",
+        "Clelia Gasquet",
+        "Emmanuel Eliot",
+        "Marion Amalric",
+        "Emmanuel Bonnet",
+        "Philippe Jeanne",
+        "Baldini Florent"
+      ],
+      "publication": "The 2009-2010 H1N1 Vaccination Campaign through the Lense of MediaInformation: A Methodological Approach",
+      "id": 196375
+    },
+    {
+      "co-authors": [
+        "Emna Amri",
+        "Hermann Courteille",
+        "Alexandre Benoit",
+        "Philippe Bolon",
+        "Dominique Dubucq",
+        "Gilles Poulain",
+        "Anthony Credoz"
+      ],
+      "publication": "Automatic offshore oil slick detection based on deep learning using SAR data and contextual information",
+      "id": 5669525
+    },
+    {
+      "co-authors": ["Magali-Lina Viandaz"],
+      "publication": "Immigration compar\u00e9e dans un contexte de globalisation",
+      "id": 3032968
     }
-  
-     
   ]
 }
