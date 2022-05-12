@@ -9,8 +9,11 @@
   },
   "dependencies": {
     "@3rdweb/hooks": "^1.8.0",
+    "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.8.1",
     "@material-ui/core": "^4.11.2",
     "@material-ui/icons": "^4.11.2",
+    "@mui/material": "^5.7.0",
     "@reactchartjs/react-chart.js": "^1.0.0-rc.3",
     "@walletconnect/web3-provider": "^1.7.1",
     "@web3-react/core": "^6.1.9",

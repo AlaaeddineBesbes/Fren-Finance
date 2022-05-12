@@ -1,37 +1,48 @@
 import React from 'react'
-import { Line } from 'react-chartjs-2';
+import Card from '@mui/material/Card';
+import Grid from '@mui/material/Grid'
+import CardActions from '@mui/material/CardActions';
+import CardContent from '@mui/material/CardContent';
+import CardMedia from '@mui/material/CardMedia';
+import Button from '@mui/material/Button';
+import Typography from '@mui/material/Typography';
+import Image from 'next/image'
 
-const data = {
-    labels: ['Sep 19', 'Sep 20', 'Sep 21', 'Sep 22', 'Sep 23', 'Sep24', 'Sep 25'],
-    datasets: [
-        {
-            label: 'Elrond ',
-            fill: false,
-            lineTension: 0.1,
-            backgroundColor: 'rgba(67, 56, 202)',
-            borderColor: 'rgba(67, 56, 202)',
-            borderCapStyle: 'butt',
-            borderDash: [],
-            borderDashOffset: 0.0,
-            borderJoinStyle: 'miter',
-            pointBorderColor: 'rgba(67, 56, 202)',
-            pointBackgroundColor: '#fff',
-            pointBorderWidth: 1,
-            pointHoverRadius: 5,
-            pointHoverBackgroundColor: 'rgba(67, 56, 202)',
-            pointHoverBorderColor: 'rgba(220,220,220,1)',
-            pointHoverBorderWidth: 2,
-            pointRadius: 4,
-            pointHitRadius: 10,
-            data: [12, 10, 6, 6, 6, 7, 7, 8]
-        }
-    ]
-};
+
+
+
 
 const Middle = () => {
     return (
-        <div className=" bg-white  ml-2   shadow-sm w-full h-screen   ">
-            <iframe className='w-full h-full' height="1000px"   src='https://dexscreener.com/bsc/0x31db536dd43442ec426731571e1001a67e4ea23a'></iframe>
+    <div className=" bg-white  ml-2   shadow-sm w-full h-screen   ">
+        <Grid container spacing={3}>
+        <Card sx={{ maxWidth: 250 }}>
+        <CardMedia
+            component="img"
+            height="140"
+            image='/listic.png'
+            alt="green iguana"
+        />
+        <CardContent>
+            <Typography gutterBottom variant="h5" component="div">
+            Lizard
+            </Typography>
+            <Typography variant="body2" color="text.secondary">
+            Lizards are a widespread group of squamate reptiles, with over 6,000
+            species, ranging across all continents except Antarctica
+            </Typography>
+        </CardContent>
+        <CardActions>
+            <Button size="medium">OPEN</Button>
+            <Button size="big">BUY</Button>
+        </CardActions>
+        </Card>
+
+        
+
+    </Grid>
+    
+  
         
         </div>
     )

@@ -15,7 +15,7 @@ const Sidebar = () => {
     return (
         <div className="md:w-3/12 w-5/12 h-full shadow-md">
             <div className=" border-b py-3 mt-1 flex justify-around ">
-                <p className="text-xl  font-semibold">Artemis Cat</p>
+                <p className="text-xl  font-semibold">POLY PAPER</p>
                 <p>|</p>
                 
 
@@ -26,25 +26,19 @@ const Sidebar = () => {
                     <div className="">
                         <div className="flex p-3 text-gray-700  space-x-4 0 hover:bg-gray-50 hover:text-blue-600  cursor-pointer  ">
                             <DonutLargeIcon className=" text-gray-300" />
-                            <p className="font-semibold "  >Dashbord</p>
+                            <a className="font-semibold " href='/auteurs'  >Les Auteurs</a>
                         </div>
                     </div>
                     <div className="">
                         <div className="flex p-3 text-gray-700  space-x-4 0 hover:bg-gray-50 hover:text-blue-600  cursor-pointer  ">
                             <ClearAllIcon className="text-gray-300" />
-                            <a href='https://poocoin.app/tokens/0xe0897cff301ead23e0fae7886eeeee27fd013297' className=" font-semibold  " >Poocoin</a>
+                            <a href='/publications' className=" font-semibold  " >Les Publications</a>
                         </div>
                     </div>
                     <div className="">
                         <div className="flex p-3 text-gray-700  space-x-4 0 hover:bg-gray-50 hover:text-blue-600  cursor-pointer  ">
                             <ArrowUpwardIcon className="text-gray-300" />
-                            <p className=" font-semibold  " >Pancakeswap</p>
-                        </div>
-                    </div>
-                    <div className="">
-                        <div className="flex p-3 text-gray-700  space-x-4 0 hover:bg-gray-50 hover:text-blue-600  cursor-pointer  ">
-                            <ArrowDownwardIcon className="text-gray-300" />
-                            <a href='https://mudra.website/?certificate=yes&type=0&lp=0x31db536dd43442ec426731571e1001a67e4ea23a' className="font-semibold " >Lock</a>
+                            <a href='https://www.univ-smb.fr/listic/' className=" font-semibold  " >LISTIC</a>
                         </div>
                     </div>
                    
