@@ -25,6 +25,12 @@ const Sidebar = () => {
                     <h1 className="text-gray-400 font-semibold">Menu</h1>
                     <div className="">
                         <div className="flex p-3 text-gray-700  space-x-4 0 hover:bg-gray-50 hover:text-blue-600  cursor-pointer  ">
+                            <ClearAllIcon className="text-gray-300" />
+                            <a href='/' className=" font-semibold  " >GRAPH</a>
+                        </div>
+                    </div>
+                    <div className="">
+                        <div className="flex p-3 text-gray-700  space-x-4 0 hover:bg-gray-50 hover:text-blue-600  cursor-pointer  ">
                             <DonutLargeIcon className=" text-gray-300" />
                             <a className="font-semibold " href='/auteurs'  >Les Auteurs</a>
                         </div>
@@ -35,10 +41,11 @@ const Sidebar = () => {
                             <a href='/publications' className=" font-semibold  " >Les Publications</a>
                         </div>
                     </div>
+                
                     <div className="">
                         <div className="flex p-3 text-gray-700  space-x-4 0 hover:bg-gray-50 hover:text-blue-600  cursor-pointer  ">
                             <ArrowUpwardIcon className="text-gray-300" />
-                            <a href='https://www.univ-smb.fr/listic/' className=" font-semibold  " >LISTIC</a>
+                            <a href='/listic' className=" font-semibold  " >LISTIC</a>
                         </div>
                     </div>
                    

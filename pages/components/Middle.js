@@ -1,22 +1,20 @@
 import React from 'react'
-import Card from '@mui/material/Card';
+import { useEffect,useState } from 'react';
+import axios from 'axios';
 import Grid from '@mui/material/Grid'
-import CardActions from '@mui/material/CardActions';
-import CardContent from '@mui/material/CardContent';
-import CardMedia from '@mui/material/CardMedia';
-import Button from '@mui/material/Button';
-import Typography from '@mui/material/Typography';
-import Image from 'next/image'
-
 
 
 
 
 const Middle = () => {
+    
+
     return (
     <div className=" bg-white  ml-2   shadow-sm w-full h-screen   ">
-        <Grid container spacing={3}>
-        <Card sx={{ maxWidth: 250 }}>
+        <Grid container >
+            {data.map( article =>(
+                <Grid item key = {article.id} >
+                    <Card sx={{ maxWidth: 250 }}>
         <CardMedia
             component="img"
             height="140"
@@ -38,11 +36,11 @@ const Middle = () => {
         </CardActions>
         </Card>
 
-        
-
+                </Grid>
+                
+            ))}
     </Grid>
-    
-  
+
         
         </div>
     )

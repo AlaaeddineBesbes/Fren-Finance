@@ -1,8 +1,11 @@
 
 import Header from "./components/Header"
-import Container from './components/Container'
+import ContainerAut from "./components/ContainerAut"
 import Sidebar from "./components/sidebar"
 import React, {useState, useEffect} from 'react';
+
+
+
 
 
 export default function Home() {
@@ -14,7 +17,7 @@ export default function Home() {
         <div className="w-screen " id="middle">
           <Header />
           <div id="container">
-          <Container />
+          <ContainerAut/>
           </div>
           
         </div>
