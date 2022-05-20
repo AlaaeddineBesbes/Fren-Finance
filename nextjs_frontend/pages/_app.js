@@ -6,8 +6,8 @@ function MyApp({ Component, pageProps }) {
   return( 
   
 <MoralisProvider
-  appId="N2rkCGHa4tXwXHU08BuwHijVjlySfM8jUFzLzUbZ"
-  serverUrl='https://xe6vo9q3zwsi.usemoralis.com:2053/server'>
+  appId="uCUwtfvdY6Jf9Iv9MzciWSTGD1SPqHzVLMcxd79b"
+  serverUrl='https://3ml0xqvekni2.usemoralis.com:2053/server'>
   <Component {...pageProps}/>
   </MoralisProvider>
   )
