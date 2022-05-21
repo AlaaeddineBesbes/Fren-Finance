@@ -66,7 +66,6 @@ useEffect(() => {
             
         </CardContent>
         <CardActions>
-            <Button size="medium">OPEN</Button>
             <Button size="big">BUY</Button>
         </CardActions>
         </Card>
